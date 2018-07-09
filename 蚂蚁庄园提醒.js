@@ -34,11 +34,11 @@ var notices = [{
     info: ""
   },
   {
-    timer: 210 * 60,
+    timer: 270 * 60,
     info: "小鸡可能吃完了"
   },
   {
-    timer: 150 * 60,
+    timer: 210 * 60,
     info: "小鸡可能吃完了"
   },
   {
